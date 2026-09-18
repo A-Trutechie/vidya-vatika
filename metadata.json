@@ -1,0 +1,6 @@
+{
+  "name": "Vidya Vatika",
+  "description": "A place where knowledge grows, confidence blooms and every student finds their path to success.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
